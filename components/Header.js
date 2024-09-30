@@ -1,4 +1,4 @@
-// // mainfolder/components/Header.js
+// // // mainfolder/components/Header.js
 
 'use client';
 import Link from 'next/link';
@@ -287,3 +287,5 @@ const Header = () => {
 };
 
 export default Header;
+
+
